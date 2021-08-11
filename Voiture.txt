@@ -1,0 +1,12 @@
+10	FFF	bnxbx	a	12	15	non
+14	FFF	HHH	FFF	111	234	oui
+6	FFF	HHH	FFF	111	234	oui
+33	FFF	JJ	RR	120	20	non
+1	FFF	1	1	1	1	non
+11	FFF	1	1	9	1	non
+1	FFF	11	1	1	1	non
+1	FFF	1	1	1	1	non
+1	FFF	1	1	1	1	non
+1	FFF	1	1	11	12	non
+1	FFF	1	1	1	1	non
+12	volvo	dacia	red	12	129	oui
